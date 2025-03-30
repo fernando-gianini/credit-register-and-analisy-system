@@ -31,7 +31,7 @@ Este projeto consiste em um sistema de cadastro de pessoas que buscam liberaçã
    ```
 3. Acesse o diretório do projeto:
    ```sh
-   cd credit-register-and-analisy-systen
+   cd credit-register-and-analisy-system
    ```
 4. Execute o script principal:
    ```sh
