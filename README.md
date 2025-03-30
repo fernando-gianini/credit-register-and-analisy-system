@@ -27,7 +27,7 @@ Este projeto consiste em um sistema de cadastro de pessoas que buscam liberaçã
 1. Certifique-se de ter o **Python 3** instalado em seu sistema.
 2. Clone este repositório:
    ```sh
-   git clone https://github.com/fernando-gianini/credit-register-and-analisy-systen
+   git clone https://github.com/fernando-gianini/credit-register-and-analisy-system
    ```
 3. Acesse o diretório do projeto:
    ```sh
